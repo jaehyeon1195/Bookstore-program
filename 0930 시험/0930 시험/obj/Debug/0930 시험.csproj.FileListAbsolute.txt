@@ -1,0 +1,14 @@
+C:\Users\54281\OneDrive\바탕 화면\0930 시험\0930 시험\bin\Debug\0930 시험.exe.config
+C:\Users\54281\OneDrive\바탕 화면\0930 시험\0930 시험\bin\Debug\0930 시험.exe
+C:\Users\54281\OneDrive\바탕 화면\0930 시험\0930 시험\bin\Debug\0930 시험.pdb
+C:\Users\54281\OneDrive\바탕 화면\0930 시험\0930 시험\obj\Debug\0930 시험.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\0930 시험\0930 시험\obj\Debug\0930 시험.csproj.CoreCompileInputs.cache
+C:\Users\54281\OneDrive\바탕 화면\0930 시험\0930 시험\obj\Debug\0930 시험.exe
+C:\Users\54281\OneDrive\바탕 화면\0930 시험\0930 시험\obj\Debug\0930 시험.pdb
+C:\Users\user\Desktop\비트고급30기\4.C#\0930 시험\0930 시험\bin\Debug\0930 시험.exe.config
+C:\Users\user\Desktop\비트고급30기\4.C#\0930 시험\0930 시험\bin\Debug\0930 시험.exe
+C:\Users\user\Desktop\비트고급30기\4.C#\0930 시험\0930 시험\bin\Debug\0930 시험.pdb
+C:\Users\user\Desktop\비트고급30기\4.C#\0930 시험\0930 시험\obj\Debug\0930 시험.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비트고급30기\4.C#\0930 시험\0930 시험\obj\Debug\0930 시험.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비트고급30기\4.C#\0930 시험\0930 시험\obj\Debug\0930 시험.exe
+C:\Users\user\Desktop\비트고급30기\4.C#\0930 시험\0930 시험\obj\Debug\0930 시험.pdb
